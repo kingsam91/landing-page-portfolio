@@ -17,3 +17,6 @@ body{
 .jump p {
   background-color: limegreen;
 }
+.jump {
+  color: gold;
+}
