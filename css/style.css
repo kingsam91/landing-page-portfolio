@@ -15,3 +15,7 @@ h3 {
 body{
   background-color: grey;
 }
+.intro {
+  font-size: 36px;
+  font-weight: bold;
+}
