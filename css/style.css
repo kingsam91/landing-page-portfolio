@@ -23,4 +23,7 @@ body{
 .column {
   float: left;
   width: 300px;
+  border: 2px solid pink;
+  margin: 10 px;
+  padding: 40px;
 }
